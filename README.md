@@ -7,7 +7,7 @@ Creating a BARK Solana validator node involves several essential steps, ensuring
 1. **Solana Software:** Ensure the Solana software is installed on your server. Follow the official Solana documentation for installation instructions.
 
    ```bash
-   sh -c "$(curl -sSfL https://release.solana.com/v1.10.0/install)"
+   sh -c "$(curl -sSfL https://release.solana.com/v1.18.2/install)"
    ```
 
    This command installs the Solana software on your machine.
